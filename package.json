@@ -1,0 +1,18 @@
+{
+  "name": "grumpycathatesyou",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.6",
+    "botbuilder": "^1.0.1",
+    "response": "^0.18.0",
+    "restify": "^4.1.0"
+  }
+}
